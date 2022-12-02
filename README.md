@@ -55,6 +55,7 @@ Github Profile [AP-ATUL](https://github.com/AP-Atul)
 </h3>
 
 ```
+* Contributed to [Fuel Indexer](https://github.com/FuelLabs/fuel-indexer)
 * Contributed to [Messari](https://github.com/messari/subgraphs) as a Subgraph Developer.
 * Worked on [Clipto](https://github.com/Clipto-Platform)
     - Built platform contracts in Solidity
